@@ -1,4 +1,8 @@
 # Databricks COVID-19 Visualizer
+
+Final project for duke ids 721  
+team member: Tianjun Mo, Enmiao Feng, Dingzhou Wang, Xushan Qing  
+
 In this project, We utilized Databricks to process the COVID dataset. A Spark job has been set up to process the data periodically to generate the processed data to show the daily COVID-19 cases.
 
 Demo Video: https://youtu.be/RgQY-8MxdnA    
